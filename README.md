@@ -1,5 +1,5 @@
 # basic_titanic_analysis
-First practice-code to understand Pandas, goal is to be able to analyse data efficiently.
+First practice-code to understand Pandas, my goal is to be able to analyse data efficiently.
 
 ##  Tools & Technologies
 - **Python**: Core programming language.
